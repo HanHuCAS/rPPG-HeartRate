@@ -1,4 +1,4 @@
-##Impported from https://github.com/nxsEdson/CVD-Physiological-Measurement.git##
+##Impported from https://github.com/nxsEdson/CVD-Physiological-Measurement.git
 
 # CVD-Physiological-Measurement
 
